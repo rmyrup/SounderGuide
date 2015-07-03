@@ -1,0 +1,24 @@
+body {
+    min-height: 2000px;
+    padding-top: 70px;
+}
+
+.navbar-header .pull-right {
+    margin-right: 15px;
+}
+.navbar-header .pull-right .navbar-btn {
+    margin-left: 5px;
+}
+
+.panel.panel-output .panel-body {
+    padding: 0;
+}
+.panel.panel-output .panel-body pre {
+    border: 0;
+    margin: 0;
+    padding: 15px;
+}
+
+#map {
+    margin-bottom: 20px;
+}
