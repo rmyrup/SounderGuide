@@ -1,0 +1,5 @@
+# PHPStorm project metadatda
+.idea/
+
+# Bower components, better to do a 'bower install' with a cloned repo
+bower_components/
